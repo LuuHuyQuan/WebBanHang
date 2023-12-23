@@ -1,0 +1,35 @@
+.header-nav {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.images-logo {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+.border-style {
+    border: 1px solid #ccc;
+    border-radius: 15px;
+}
+ul li {
+    list-style-type: none;
+}
+ul li a {
+    text-decoration: none;
+}
+.achor {
+    text-align: center;
+}
+.desc {
+    color: #000;
+}
+.category .price {
+    display: flex;
+    font-family: sans-serif;
+    font-size: 16px;
+    color:#D70018;
+    font-weight: 500;
+}
